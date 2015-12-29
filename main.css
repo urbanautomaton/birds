@@ -1,0 +1,11 @@
+#app {
+  width: 500px;
+}
+
+.slider input {
+  width: 100%;
+}
+
+.slider__value {
+  float: right;
+}
